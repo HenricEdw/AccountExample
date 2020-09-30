@@ -1,0 +1,6 @@
+C:\CodeProjects\AccountExample\bin\Debug\AccountExample.exe.config
+C:\CodeProjects\AccountExample\bin\Debug\AccountExample.exe
+C:\CodeProjects\AccountExample\bin\Debug\AccountExample.pdb
+C:\CodeProjects\AccountExample\obj\Debug\AccountExample.csprojAssemblyReference.cache
+C:\CodeProjects\AccountExample\obj\Debug\AccountExample.exe
+C:\CodeProjects\AccountExample\obj\Debug\AccountExample.pdb
